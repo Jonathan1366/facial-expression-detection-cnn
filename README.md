@@ -84,9 +84,9 @@ After training, the following files will be generated:
 🔍 Use Case
 This model can be used for:
 
-a. Facial expression-based emotion detection
-b. Behavioral analysis in HCI (Human-Computer Interaction)
-c. Real-time camera-based affective computing (requires additional optimization)
+- Facial expression-based emotion detection
+- Behavioral analysis in HCI (Human-Computer Interaction)
+- Real-time camera-based affective computing (requires additional optimization)
 
 
 
