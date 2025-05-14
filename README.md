@@ -25,9 +25,9 @@ This project uses two publicly available datasets:
 The CNN model architecture is intentionally simple for efficiency and fast convergence:
 
 Input: 48x48 grayscale image
-Conv2d(1, 32, kernel=3, padding=1) → ReLU → MaxPool2d(2)
-Conv2d(32, 64, kernel=3, padding=1) → ReLU → MaxPool2d(2)
-Flatten → Linear(641212, 128) → ReLU → Linear(128, num_classes)
+- Conv2d(1, 32, kernel=3, padding=1) → ReLU → MaxPool2d(2)
+- Conv2d(32, 64, kernel=3, padding=1) → ReLU → MaxPool2d(2)
+- Flatten → Linear(641212, 128) → ReLU → Linear(128, num_classes)
 
 
 ---
