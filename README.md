@@ -1,4 +1,4 @@
-<img width="179" alt="image" src="https://github.com/user-attachments/assets/f221b3a3-31e8-47f7-ad29-bd90b0341e72" /><img width="179" alt="image" src="https://github.com/user-attachments/assets/cb454cb1-4b49-4a90-b348-0e66cefe4dd5" /># Facial Expression Detection using CNN
+# Facial Expression Detection using CNN
 
 This repository implements a lightweight Convolutional Neural Network (CNN) in PyTorch to classify facial expressions using grayscale images from the FER2013 and RAF-DB datasets. The training pipeline includes real-time progress monitoring, confusion matrix visualization, and classification performance export for further evaluation.
 
